@@ -1,5 +1,5 @@
 # Olá, eu sou o João Torres! 👋
-![fotoia] (https://web.whatsapp.com/249f3f19-885a-4b03-b4dc-fad491f4ed9c)
+![fotoia] (file:///D:/JoaoTorres/FOTOS/ChatGPT%20Image%2028%20de%20mai.%20de%202026,%2011_22_43.png)
 Sempre fui fascinado por tecnologia e por entender como as coisas funcionam por trás dos panos. Hoje, uso a programação para transformar ideias em linhas de código, buscando sempre criar soluções que facilitem o dia a dia e resolvam problemas reais.
 
 ---
