@@ -1,7 +1,5 @@
 # Olá, eu sou o João Torres! 👋
-<div align="center">
-  <img src="imagemia.png" alt="João Torres" width="350px">
-</div>
+![imagem](https://github.com/joaotorresdev/joaotorresdev/blob/main/imagemia.png)
 Sempre fui fascinado por tecnologia e por entender como as coisas funcionam por trás dos panos. Hoje, uso a programação para transformar ideias em linhas de código, buscando sempre criar soluções que facilitem o dia a dia e resolvam problemas reais.
 
 ---
