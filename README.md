@@ -1,7 +1,6 @@
 # Olá, eu sou o João Torres! 👋
-![imagem](https://github.com/joaotorresdev/joaotorresdev/blob/main/imagemia.png)
 
-Sempre fui fascinado por tecnologia e por entender como as coisas funcionam por trás dos panos. Hoje, uso a programação para transformar ideias em linhas de código, buscando sempre criar soluções que facilitem o dia a dia e resolvam problemas reais.
+Tenho 16 anos e sempre fui um garoto que gostou de tecnologia e games. Hoje em dia estou estudando Desenvolvimento de sistemas no SENAI, e aqui ficam todos meus projetos; minha evolução toda está aqui 😎
 
 ---
 
