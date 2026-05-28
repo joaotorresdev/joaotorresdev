@@ -1,5 +1,5 @@
 # Olá, eu sou o João Torres! 👋
-![imagem] [blob:https://web.whatsapp.com/249f3f19-885a-4b03-b4dc-fad491f4ed9c]
+![imagem] [https://web.whatsapp.com/249f3f19-885a-4b03-b4dc-fad491f4ed9c]
 Sempre fui fascinado por tecnologia e por entender como as coisas funcionam por trás dos panos. Hoje, uso a programação para transformar ideias em linhas de código, buscando sempre criar soluções que facilitem o dia a dia e resolvam problemas reais.
 
 ---
