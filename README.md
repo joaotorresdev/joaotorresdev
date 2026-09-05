@@ -1,7 +1,7 @@
 > *"Dream, believe and make it happen."*
 
 <h1 align="center">
-  <font color="yellow"><code>print("Olá, seja bem-vindo!")</code></font> 👋
+  $\color{#FFD700}{\text{print("Olá, seja bem-vindo!")}}$ 👋
 </h1>
 
 ### 👨‍💻 Sobre mim
