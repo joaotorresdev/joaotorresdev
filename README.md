@@ -1,7 +1,8 @@
 > *"Dream, believe and make it happen."*
 
-# `# print("Olá, seja bem-vindo!")` 
-
+<h1 align="center">
+  <font color="#FFD700"><code>print("Olá, seja bem-vindo!")</code></font> 👋
+</h1>
 ---
 
 ### 👨‍💻 Sobre mim
