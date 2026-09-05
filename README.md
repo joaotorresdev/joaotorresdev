@@ -1,6 +1,6 @@
 > *"Dream, believe and make it happen."*
 
-# `# print("Olá, seja bem-vindo!")` 👋
+# `# print("Olá, seja bem-vindo!")` 
 
 ---
 
@@ -17,7 +17,7 @@ Atualmente, estou construindo uma base sólida em engenharia de software atravé
 
 ### 🛠️ Tecnologias & Ferramentas
 
-https://skillicons.dev/icons?i=py,php,html,vscode,windows
+![Minhas Tecnologias](https://skillicons.dev/icons?i=py,php,html,vscode,windows)
 
 ---
 
