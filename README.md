@@ -1,14 +1,7 @@
-# Hi, i'm João Torres 👋
+# print("Olá, seja bem vindo")
 
-Tenho 17 anos e sempre fui um garoto que gostou de tecnologia e games. Hoje em dia curso Desenvolvimento de sistemas no SENAI-SP, e aqui ficam todos meus projetos; minha evolução toda está aqui 😎
-
----
-
-### 🚀 Um pouco sobre mim
-- 🎓 Estudante na área de tecnologia, focado em aprender e evoluir constantemente.
-- ⚙️ Curto a ideia de conectar código ao mundo real, além de manter meus projetos sempre organizados e eficientes.
-- 🌐 Estou sempre atento em novos conceitos, ferramentas e boas práticas de desenvolvimento.
-
+Meu nome é João Torres, tenho 17 anos, sou estudante de Desenvolvimento de sistemas pelo SENAI SP - além de aluno do ensino médio SESI SP.
+Atualmente estou construindo minha base na programação através de estudos, exercícios e projetos práticos. Tenho interesse em desenvolvimento de software, desenvolvimento web, automações e criação de aplicações. Atualmente estou estudando e praticando tecnologias como Python, PHP e HTML. Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completos e adquirir experiência na área de tecnologia.
 ---
 
 ### 🛠️ Principais Tecnologias
