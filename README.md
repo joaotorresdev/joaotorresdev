@@ -1,4 +1,4 @@
-# Hi, i'm João Torres! 👋
+# Hi, i'm João Torres 👋
 
 Tenho 17 anos e sempre fui um garoto que gostou de tecnologia e games. Hoje em dia curso Desenvolvimento de sistemas no SENAI-SP, e aqui ficam todos meus projetos; minha evolução toda está aqui 😎
 
@@ -7,7 +7,7 @@ Tenho 17 anos e sempre fui um garoto que gostou de tecnologia e games. Hoje em d
 ### 🚀 Um pouco sobre mim
 - 🎓 Estudante na área de tecnologia, focado em aprender e evoluir constantemente.
 - ⚙️ Curto a ideia de conectar código ao mundo real, além de manter meus projetos sempre organizados e eficientes.
-- 🌐 Estou sempre de olho em novos conceitos, ferramentas e boas práticas de desenvolvimento.
+- 🌐 Estou sempre atento em novos conceitos, ferramentas e boas práticas de desenvolvimento.
 
 ---
 
