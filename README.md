@@ -1,4 +1,4 @@
-> <div align="center">*"Dream, believe and make it happen."*</div>
+> <div align="center">"Dream, believe and make it happen."</div>
 
 <h1 align="center">
   $\color{#FFD700}{\text{print("Olá, seja bem-vindo!")}}$ 👋
