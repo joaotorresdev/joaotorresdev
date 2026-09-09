@@ -8,6 +8,7 @@
 
 Meu nome é **João Torres**, tenho 17 anos e sou estudante de **Desenvolvimento de Sistemas** pelo **SENAI SP**, atuando de forma integrada ao ensino médio do **SESI SP**.
 Atualmente, meu objetivo é evoluir constantemente minhas habilidades, dominar boas práticas de arquitetura e criar aplicações cada vez mais robustas e completas — além de aprimorar minhas *soft skills* e outras áreas de interesse, como o inglês.
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
