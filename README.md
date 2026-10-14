@@ -1,8 +1,7 @@
 > <div align="center">"Dream, believe and make it happen."</div>
 
-<h1 align="center">
-  $\color{#FFD700}{\text{print("Olá, seja bem-vindo!")}}$ 👋
-</h1>
+$$\text{print("Olá, seja bem-vindo!")} \quad 👋$$
+
 
 ### Sobre mim
 
