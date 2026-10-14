@@ -1,6 +1,8 @@
 > <div align="center">"Dream, believe and make it happen."</div>
 
-<h1 align="center">print("Olá, seja bem-vindo!") 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFD700&height=120&section=header&text=print(%22Ol%C3%A1,%20seja%20bem-vindo!%22)%20%F0%9F%91%8B&fontSize=30&fontColor=000" alt="Header Amarelo" />
+</p>
 
 
 ### Sobre mim
