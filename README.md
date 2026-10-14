@@ -1,6 +1,6 @@
 > <div align="center">"Dream, believe and make it happen."</div>
 
-$$\text{print("Olá, seja bem-vindo!")} \quad 👋$$
+<h1 align="center">print("Olá, seja bem-vindo!") 👋</h1>
 
 
 ### Sobre mim
